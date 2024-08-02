@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppSeeding")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3df43248620aabd714501061afc57929a43c769")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7617efda68fff63a4626ae31a8ad8892fbf41149")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppSeeding")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppSeeding")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

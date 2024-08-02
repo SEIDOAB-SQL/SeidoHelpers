@@ -5,4 +5,16 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <PropertyGroup>
+    <PackageId>csSeedGenerator</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Martin Lenart</Authors>
+    <Description>A random seeder for C# .NET 8.0 projects and above</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Update="master-seeds.json">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+</ItemGroup>
 </Project>
