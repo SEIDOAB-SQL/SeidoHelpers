@@ -118,6 +118,7 @@ class Program
         try
         {
             //fn = "master-seeds.json";
+            fn = "./master-seeds.json";
             var rndMySeeds = new csSeedGenerator(fn);
 
             Console.WriteLine("Random Names using master-seeds.json file");

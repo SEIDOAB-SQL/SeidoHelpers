@@ -900,9 +900,19 @@ namespace Models
                 return Path.Combine(documentPath, name);
             }
 
-            public static bool FileExists(string FileName) => File.Exists(fname(FileName));
+            public static bool FileExists(string FileName){
+
+                var fn = Path.GetFileName(FileName);
+                if (fn == FileName)
+                {
+                    //no path in FileName use default directory
+                   return File.Exists(fname(FileName));
+                }
+    
+                return File.Exists(FileName);
+            }
         }
-        #endregion
+    #endregion
     }
 }
 

@@ -34,3 +34,5 @@
 /Users/Martin/Development/Projects/SeidoHelpers/AppSeeding/obj/Debug/net8.0/AppSeeding.pdb
 /Users/Martin/Development/Projects/SeidoHelpers/AppSeeding/obj/Debug/net8.0/AppSeeding.genruntimeconfig.cache
 /Users/Martin/Development/Projects/SeidoHelpers/AppSeeding/obj/Debug/net8.0/ref/AppSeeding.dll
+/Users/Martin/Development/Projects/SeidoHelpers/AppSeeding/bin/Debug/net8.0/master-seeds.json
+/Users/Martin/Development/Projects/SeidoHelpers/AppSeeding/obj/Debug/net8.0/AppSeeding.sourcelink.json
