@@ -14,7 +14,7 @@
     "version": "1.0.0",
     "restore": {
       "projectUniqueName": "/Users/Martin/Development/Projects/SeidoHelpers/Models/Models.csproj",
-      "projectName": "csSeedGenerator",
+      "projectName": "SeedGenerator",
       "projectPath": "/Users/Martin/Development/Projects/SeidoHelpers/Models/Models.csproj",
       "packagesPath": "/Users/Martin/.nuget/packages/",
       "outputPath": "/Users/Martin/Development/Projects/SeidoHelpers/Models/obj/",

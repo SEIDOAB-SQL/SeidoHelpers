@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>csSeedGenerator</id>
+    <version>1.0.0</version>
+    <authors>Martin Lenart</authors>
+    <description>A random seeder for C# .NET 8.0 projects and above</description>
+    <repository type="git" commit="d5d052606c1fd3e43c4996640e0a3a6d61381653" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/Martin/Development/Projects/SeidoHelpers/Models/bin/Release/net8.0/Models.dll" target="lib/net8.0/Models.dll" />
+  </files>
+</package>
