@@ -14,7 +14,7 @@
     "version": "1.0.0",
     "restore": {
       "projectUniqueName": "/Users/Martin/Development/Projects/SeidoHelpers/Models/Models.csproj",
-      "projectName": "SeedGenerator",
+      "projectName": "seedGenerator",
       "projectPath": "/Users/Martin/Development/Projects/SeidoHelpers/Models/Models.csproj",
       "packagesPath": "/Users/Martin/.nuget/packages/",
       "outputPath": "/Users/Martin/Development/Projects/SeidoHelpers/Models/obj/",
@@ -26,6 +26,7 @@
         "net8.0"
       ],
       "sources": {
+        "/Users/Martin/Development/nugets": {},
         "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },

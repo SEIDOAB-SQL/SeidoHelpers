@@ -1,14 +1,3 @@
-/Users/Martin/Development/Projects/SQL Databases Apr 2024/SQLDB_dotNET/SeidoHelpers/Models/bin/Debug/net8.0/Models.deps.json
-/Users/Martin/Development/Projects/SQL Databases Apr 2024/SQLDB_dotNET/SeidoHelpers/Models/bin/Debug/net8.0/Models.dll
-/Users/Martin/Development/Projects/SQL Databases Apr 2024/SQLDB_dotNET/SeidoHelpers/Models/bin/Debug/net8.0/Models.pdb
-/Users/Martin/Development/Projects/SQL Databases Apr 2024/SQLDB_dotNET/SeidoHelpers/Models/obj/Debug/net8.0/Models.GeneratedMSBuildEditorConfig.editorconfig
-/Users/Martin/Development/Projects/SQL Databases Apr 2024/SQLDB_dotNET/SeidoHelpers/Models/obj/Debug/net8.0/Models.AssemblyInfoInputs.cache
-/Users/Martin/Development/Projects/SQL Databases Apr 2024/SQLDB_dotNET/SeidoHelpers/Models/obj/Debug/net8.0/Models.AssemblyInfo.cs
-/Users/Martin/Development/Projects/SQL Databases Apr 2024/SQLDB_dotNET/SeidoHelpers/Models/obj/Debug/net8.0/Models.csproj.CoreCompileInputs.cache
-/Users/Martin/Development/Projects/SQL Databases Apr 2024/SQLDB_dotNET/SeidoHelpers/Models/obj/Debug/net8.0/Models.dll
-/Users/Martin/Development/Projects/SQL Databases Apr 2024/SQLDB_dotNET/SeidoHelpers/Models/obj/Debug/net8.0/refint/Models.dll
-/Users/Martin/Development/Projects/SQL Databases Apr 2024/SQLDB_dotNET/SeidoHelpers/Models/obj/Debug/net8.0/Models.pdb
-/Users/Martin/Development/Projects/SQL Databases Apr 2024/SQLDB_dotNET/SeidoHelpers/Models/obj/Debug/net8.0/ref/Models.dll
 /Users/Martin/Development/Projects/SeidoHelpers/Models/bin/Debug/net8.0/Models.deps.json
 /Users/Martin/Development/Projects/SeidoHelpers/Models/bin/Debug/net8.0/Models.dll
 /Users/Martin/Development/Projects/SeidoHelpers/Models/bin/Debug/net8.0/Models.pdb
@@ -16,9 +5,8 @@
 /Users/Martin/Development/Projects/SeidoHelpers/Models/obj/Debug/net8.0/Models.AssemblyInfoInputs.cache
 /Users/Martin/Development/Projects/SeidoHelpers/Models/obj/Debug/net8.0/Models.AssemblyInfo.cs
 /Users/Martin/Development/Projects/SeidoHelpers/Models/obj/Debug/net8.0/Models.csproj.CoreCompileInputs.cache
+/Users/Martin/Development/Projects/SeidoHelpers/Models/obj/Debug/net8.0/Models.sourcelink.json
 /Users/Martin/Development/Projects/SeidoHelpers/Models/obj/Debug/net8.0/Models.dll
 /Users/Martin/Development/Projects/SeidoHelpers/Models/obj/Debug/net8.0/refint/Models.dll
 /Users/Martin/Development/Projects/SeidoHelpers/Models/obj/Debug/net8.0/Models.pdb
 /Users/Martin/Development/Projects/SeidoHelpers/Models/obj/Debug/net8.0/ref/Models.dll
-/Users/Martin/Development/Projects/SeidoHelpers/Models/obj/Debug/net8.0/Models.sourcelink.json
-/Users/Martin/Development/Projects/SeidoHelpers/Models/bin/Debug/net8.0/master-seeds.json

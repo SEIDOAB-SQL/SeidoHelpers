@@ -117,9 +117,10 @@ class Program
         Console.WriteLine("\nRead seeds from master-seeds.json file");
         try
         {
-            //fn = "master-seeds.json";
             fn = "./master-seeds.json";
+            System.Console.WriteLine(Path.GetFullPath(fn));
             var rndMySeeds = new csSeedGenerator(fn);
+
 
             Console.WriteLine("Random Names using master-seeds.json file");
             Console.WriteLine(fn);     

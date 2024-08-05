@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "PXBXewSZO9YSJd2C9rWUr2AXQb2Be9JisDe/EIRLoRvn4DayfJsh2Pv8PGwHB2QIZx8yrZ4dNWhNioTODa1FGA==",
+  "dgSpecHash": "Dbbm7ADVBWmbPdJFR8qSeZeylDLCwNnNaXl05Cl6H5jMRDDAxHTQSprYDOrqXGKWRXM7dCq2mO/4XXfkkL1hpQ==",
   "success": true,
   "projectFilePath": "/Users/Martin/Development/Projects/SeidoHelpers/AppSeeding/AppSeeding.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/Martin/.nuget/packages/seedgenerator/1.0.0/seedgenerator.1.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

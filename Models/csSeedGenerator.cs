@@ -605,13 +605,13 @@ namespace Models
         {
             _seeds = CreateMasterSeedFile();
         }
-        public csSeedGenerator(string SeedFileName)
+        public csSeedGenerator(string SeedPathName)
         {
-            if (!csSeedJsonContent.FileExists(SeedFileName))
+            if (!csSeedJsonContent.FileExists(SeedPathName))
             {
-                throw new FileNotFoundException(SeedFileName);
+                throw new FileNotFoundException(SeedPathName);
             }
-            _seeds = csSeedJsonContent.ReadFile(SeedFileName);
+            _seeds = csSeedJsonContent.ReadFile(SeedPathName);
         }
         #endregion
 
@@ -869,22 +869,10 @@ namespace Models
                 return fn;
             }
 
-            public static csSeedJsonContent ReadFile(string FileName)
+            public static csSeedJsonContent ReadFile(string PathName)
             {
-                var fn = Path.GetFileName(FileName);
-                if (fn == FileName)
-                {
-                    //no path in FileName use default directory
-                    fn = fname(FileName);
-                }
-                else 
-                {
-                    //Filename contains path information
-                    fn = FileName;
-                }
-
                 csSeedJsonContent _seeds = null;
-                using (Stream s = File.OpenRead(fn))
+                using (Stream s = File.OpenRead(PathName))
                 using (TextReader reader = new StreamReader(s))
 
                     _seeds = JsonSerializer.Deserialize<csSeedJsonContent>(reader.ReadToEnd());

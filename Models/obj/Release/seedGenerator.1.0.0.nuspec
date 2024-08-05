@@ -5,7 +5,7 @@
     <version>1.0.0</version>
     <authors>Martin Lenart</authors>
     <description>A random seeder for C# .NET 8.0 projects and above</description>
-    <repository type="git" commit="d5d052606c1fd3e43c4996640e0a3a6d61381653" />
+    <repository type="git" commit="5a45a74ecc306a5e5f184cbb97bd9587471de054" />
     <dependencies>
       <group targetFramework="net8.0" />
     </dependencies>
