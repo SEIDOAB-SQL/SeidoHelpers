@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("A random seeder for C# .NET 8.0 projects and above")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5d052606c1fd3e43c4996640e0a3a6d61381653")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ed3ab7ba9afd3c21ffb0ca20df6f0036fa245e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Models")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Models")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,1 +1,4 @@
 dotnet pack -o ./
+dotnet nuget push seedGenerator.1.0.0.nupkg -s /Users/Martin/Development/nugets
+
+

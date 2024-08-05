@@ -8,14 +8,14 @@
     ".NETCoreApp,Version=v8.0": {
       "AppSeeding/1.0.0": {
         "dependencies": {
-          "csSeedGenerator": "1.0.0",
+          "seedGenerator": "1.0.0",
           "Models": "1.0.0.0"
         },
         "runtime": {
           "AppSeeding.dll": {}
         }
       },
-      "csSeedGenerator/1.0.0": {
+      "seedGenerator/1.0.0": {
         "runtime": {
           "Models.dll": {}
         }
@@ -36,7 +36,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "csSeedGenerator/1.0.0": {
+    "seedGenerator/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
